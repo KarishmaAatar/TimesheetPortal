@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimesheetPortal", "TimesheetPortal\TimesheetPortal.csproj", "{F67E42E0-F34F-4B9D-912C-CD1E4B6C4352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67E42E0-F34F-4B9D-912C-CD1E4B6C4352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67E42E0-F34F-4B9D-912C-CD1E4B6C4352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67E42E0-F34F-4B9D-912C-CD1E4B6C4352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67E42E0-F34F-4B9D-912C-CD1E4B6C4352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986B6AAC-7740-4CDC-9AD4-35C0C4BCCB27}
+	EndGlobalSection
+EndGlobal
